@@ -13,33 +13,33 @@ body{
     background-color: rgba(138, 161, 116, 0.715);
 }
 .wrapper{
-    background-image: url(/webpimg/A9A9CAEF06BB24A901C116759F6A392C.webp);
+    background-image: url(./webpimg/A9A9CAEF06BB24A901C116759F6A392C.webp);
     background-attachment: fixed;
   height: 300px;
     
 }
 .solid1{
 
-  background-image: url(/webpimg/A9A9CAEF06BB24A901C116759F6A392C\ \(1\).webp);
+  background-image: url(./webpimg/A9A9CAEF06BB24A901C116759F6A392C\ \(1\).webp);
   height: 300px;
 background-attachment: fixed;
 padding-top: 160px;
 }
 .solid2{
   padding-top: 120px;
-  background-image: url(/webpimg/A9A9CAEF06BB24A901C116759F6A392C\ \(1\).webp);
+  background-image: url(./webpimg/A9A9CAEF06BB24A901C116759F6A392C\ \(1\).webp);
   height: 300px;
   background-attachment: fixed;
 }
 .solid3{
   padding-top: 120px;
-  background-image: url(/webpimg/43A67935028A08050467DC0DACC6B11E.webp);
+  background-image: url(./webpimg/43A67935028A08050467DC0DACC6B11E.webp);
   height: 300px;
   background-attachment: fixed;
 }
 .solid4{
   padding-top: 120px;
-  background-image: url(/webpimg/istockphoto-812948018-1024x1024.webp);
+  background-image: url(./webpimg/istockphoto-812948018-1024x1024.webp);
   height: 200px;
   background-attachment: fixed;
 
